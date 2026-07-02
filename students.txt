@@ -1,0 +1,4 @@
+bittu,99
+kittu,87
+chittu,89
+rahul,32
