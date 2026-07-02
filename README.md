@@ -1,36 +1,33 @@
-# 🎓 Student Grade Tracker
+# 🎓 Student Grade Tracker (Java)
 
-A Java console-based application to manage student records using Object-Oriented Programming (OOP), ArrayList, and File Handling.
+A console-based Java application built using Object-Oriented Programming principles to efficiently manage student records with persistent file storage.
 
 ## ✨ Features
 
-- Add Student
-- Display Students
-- Search Student
-- Update Student Marks
-- Delete Student
-- Calculate Average Marks
-- Find Highest Scorer
-- Find Lowest Scorer
-- Automatic Grade Calculation
-- Save Data to File
-- Load Data from File
-- Input Validation
-- Duplicate Student Prevention
+- Add, update, delete, and search student records
+- Automatic grade calculation based on marks
+- View highest and lowest scorers
+- Calculate class average
+- Prevent duplicate student entries
+- Save and load data using file handling
 
-## 🛠 Technologies Used
+## 🧠 Concepts Used
+
+- Object-Oriented Programming (Encapsulation, Classes, Methods)
+- ArrayList for dynamic data management
+- File Handling for data persistence
+- Input validation and error handling
+
+## 🛠 Tech Stack
 
 - Java
-- Object-Oriented Programming (OOP)
-- ArrayList
+- OOP Concepts
 - File Handling
-- Git
-- GitHub
 - IntelliJ IDEA
+- Git & GitHub
 
 ## 📁 Project Structure
 
-```text
 StudentGradeTracker/
 │── src/
 │   ├── Main.java
@@ -40,15 +37,14 @@ StudentGradeTracker/
 ├── students.txt
 ├── README.md
 └── .gitignore
-```
 
-## ▶️ How to Run
+## 🚀 Future Improvements
 
-1. Clone the repository.
-2. Open it in IntelliJ IDEA.
-3. Run `Main.java`.
-4. Use the menu to manage student records.
+- GUI version using Java Swing
+- Database integration (MySQL)
+- Login system for teachers
+- Better UI and reporting system
 
 ## 👩‍💻 Author
 
-**Pranshi Verma**
+Pranshi Verma
