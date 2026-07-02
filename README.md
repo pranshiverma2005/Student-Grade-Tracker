@@ -38,6 +38,15 @@ StudentGradeTracker/
 ├── README.md
 └── .gitignore
 
+### Main Menu
+![Main Menu](images/menu.png.png)
+
+### Add Student
+![Search Student](images/search.png.png)
+
+### Display Students
+![Display Students](images/display.png.png)
+
 ## 🚀 Future Improvements
 
 - GUI version using Java Swing
